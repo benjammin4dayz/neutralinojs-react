@@ -10,6 +10,12 @@
     "app.*",
     "filesystem.readDirectory"
   ],
+  "enableExtensions": true,
+  "extensions": [
+    {
+      "id": "js.neutralino.devtools"
+    }
+  ],
   "modes": {
     "window": {
       "title": "myapp",
